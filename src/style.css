@@ -101,8 +101,7 @@ p {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  background: url("Resources/space-tourism-website-main/starter-code/assets/home/background-home-desktop.jpg")
-    no-repeat;
+  background: url("./My Resources/assets/home/background-home-desktop.jpg") no-repeat;
   background-position: cover;
 }
 
@@ -232,7 +231,7 @@ p {
 
 /* Destination styles ////////////////////////////*/
 .destination-wrapper-container {
-  background: url("My Resources/assets/destination/background-destination-desktop.jpg")
+  background: url("./My Resources/assets/destination/background-destination-desktop.jpg")
     no-repeat;
   background-position: cover;
   height: 100vh;
@@ -281,7 +280,7 @@ p {
 
 /* Crew Styles /////////////////////*/
 .crew-wrapper-container {
-  background: url("My Resources/assets/crew/background-crew-desktop.jpg")
+  background: url("./My Resources/assets/crew/background-crew-desktop.jpg")
     no-repeat;
   background-position: cover;
   height: 100vh;
@@ -336,7 +335,7 @@ p {
 
 /* Technology styles//////////////////////////////////// */
 .tech-wrapper-container {
-  background: url("My Resources/assets/technology/background-technology-desktop.jpg")
+  background: url("./My Resources/assets/technology/background-technology-desktop.jpg")
     no-repeat;
   background-position: cover;
   height: 100vh;
@@ -399,22 +398,22 @@ p {
 @media (max-width: 880px) {
   .page-wrapper {
     height: auto;
-    background: url("Resources/space-tourism-website-main/starter-code/assets/home/background-home-tablet.jpg") no-repeat;
+    background: url("./My Resources/assets/home/background-home-tablet.jpg") no-repeat;
     background-size: cover;
   }
   .destination-wrapper-container {
-    background: url("My Resources/assets/destination/background-destination-tablet.jpg") no-repeat;
+    background: url("./My Resources/assets/destination/background-destination-tablet.jpg") no-repeat;
     background-size: cover;
     height: auto;
   }
   .crew-wrapper-container {
-    background: url("My Resources/assets/crew/background-crew-tablet.jpg") no-repeat;
+    background: url("./My Resources/assets/crew/background-crew-tablet.jpg") no-repeat;
     background-size: cover;
     height: auto;
     overflow: visible;
   }
   .tech-wrapper-container {
-    background: url("My Resources/assets/technology/background-technology-tablet.jpg") no-repeat;
+    background: url("./My Resources/assets/technology/background-technology-tablet.jpg") no-repeat;
     background-size: cover;
     height: auto;
     overflow: visible;
@@ -596,24 +595,24 @@ p {
 
 @media (max-width: 480px) and (min-width: 320px) {
   .page-wrapper {
-    background: url("Resources/space-tourism-website-main/starter-code/assets/home/background-home-mobile.jpg")
+    background: url("./My Resources/assets/home/background-home-mobile.jpg")
       no-repeat;
     background-size: cover;
     min-height: 100vh;
   }
   .destination-wrapper-container {
-    background: url("My Resources/assets/destination/background-destination-mobile.jpg");
+    background: url("./My Resources/assets/destination/background-destination-mobile.jpg");
     background-size: cover;
     min-height: 100vh;
   }
   .crew-wrapper-container {
-    background: url("My Resources/assets/crew/background-crew-mobile.jpg")
+    background: url("./My Resources/assets/crew/background-crew-mobile.jpg")
       no-repeat;
     background-size: cover;
     min-height: 100vh;
   }
   .tech-wrapper-container {
-    background: url("My Resources/assets/technology/background-technology-mobile.jpg");
+    background: url("./My Resources/assets/technology/background-technology-mobile.jpg");
     background-size: cover;
     min-height: 100vh;
   }

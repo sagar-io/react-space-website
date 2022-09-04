@@ -9,7 +9,6 @@ import NavBar from './NavBar'
 const Destination = () => {
     const [destinationData, setDestinationData] = useState(Data.destinations);
     return (
-      
         <div className="destination-wrapper-container">
           <NavBar />
           <Routes>
