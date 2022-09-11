@@ -683,6 +683,7 @@ p {
   .active {
     display: block;
     text-decoration: underline; 
+    background-color: #ffffff;
   }
   .mobile-nav-elements ul {
     flex-direction: column;
