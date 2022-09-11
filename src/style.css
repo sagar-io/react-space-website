@@ -682,6 +682,7 @@ p {
   }
   .active {
     display: block;
+    text-decoration: underline; 
   }
   .mobile-nav-elements ul {
     flex-direction: column;
