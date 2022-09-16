@@ -1,10 +1,10 @@
 Space tourism website
 
 ### Screenshot
-![preview] (./site-preview-images/Screenshot1-min.png)
-![preview] (./site-preview-images/Screenshot2-min.png)
-![preview] (./site-preview-images/Screenshot3-min.png)
-![preview] (./site-preview-images/Screenshot4-min.png)
+![](./site-preview-images/Screenshot1-min.png)
+![](./site-preview-images/Screenshot2-min.png)
+![](./site-preview-images/Screenshot3-min.png)
+![](./site-preview-images/Screenshot4-min.png)
 
 
 ### Links
