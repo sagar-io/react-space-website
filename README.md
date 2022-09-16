@@ -1,6 +1,6 @@
 # Space tourism website
 
-### Screenshot
+### Screenshots
 ![](./site-preview-images/Screenshot1-min.png)
 <br/><br/><br/>
 ![](./site-preview-images/Screenshot2-min.png)
@@ -39,6 +39,9 @@ React Router
 
 - [React resource 1](https://scrimba.com/learn/learnreact) 
 - [React resource 2](https://www.youtube.com/c/Codevolution) 
+
+## Contribute
+Open to Contributions.
 
 ## Author
 
